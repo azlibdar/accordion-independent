@@ -11,7 +11,7 @@ Accordion-Independent provides a user-friendly and interactive way to display FA
 ## Usage
 1. Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/accordion-independent.git
+git clone https://github.com/azlibdar/accordion-independent.git
 ```
 2. Navigate to the Project Directory:
 ```bash
